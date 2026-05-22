@@ -3,6 +3,7 @@ import type { AnalyzerPlugin, StructuralAnalysis, DefinitionInfo, EndpointInfo }
 /**
  * Parses Protocol Buffer (.proto) files to extract message, enum, and service definitions.
  * Extracts message fields, enum values, and service RPC method endpoints.
+ * Handles message fields including scalar types, repeated, optional, required, and map<> types.
  * Does not handle nested message types, oneof fields, or proto2 extensions.
  */
 export class ProtobufParser implements AnalyzerPlugin {
