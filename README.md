@@ -308,3 +308,4 @@ Please open an issue first for major changes so we can discuss the approach.
 
 ## Contributing
 PRs welcome!
+\n## Improvements\n- Added supported model list\n- Clarified API version requirements
