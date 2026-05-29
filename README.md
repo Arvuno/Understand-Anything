@@ -305,3 +305,5 @@ Please open an issue first for major changes so we can discuss the approach.
 <p align="center">
   MIT License &copy; <a href="https://github.com/Lum1104">Lum1104</a>
 </p>
+
+- Documentation updated for clarity
