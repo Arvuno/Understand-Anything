@@ -272,3 +272,6 @@ Contributors will be recognized in:
 ---
 
 **Thank you for contributing to Understand Anything! Your contributions help make code understanding accessible to everyone.** 🚀
+
+## Contributors
+- Documentation improvements (2026)
